@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevDheer
-- 👀 I’m interested in Coding, Designing And Editing
+- 👀 I’m interested in Coding and Designing
 - 🌱 I’m currently learning Designing
 - 💞️ I’m looking to collaborate on GitHib
 - 📫 Talk with me by Doing gmail ddheer157@gmail.com
